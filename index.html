@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>OSU Course Planner</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="wrap">
+
+  <header class="site">
+    <div class="brand">
+      <span class="mark">OSU</span>
+      <h1>Course Planner</h1>
+    </div>
+    <div class="stat-line" id="db-stat"></div>
+  </header>
+
+  <section id="profile-section">
+    <h2>Your completed courses</h2>
+    <div class="profile-box">
+      <div class="add-row">
+        <input type="text" id="add-input" placeholder="Search by course code or name, e.g. CSE 2221 or “data structures”" autocomplete="off" />
+        <div class="suggest-list" id="suggest-list" style="display:none;"></div>
+      </div>
+
+      <span class="bulk-toggle" id="bulk-toggle">or paste a list of course codes</span>
+      <div class="bulk-area" id="bulk-area">
+        <textarea id="bulk-textarea" placeholder="CSE 1223, CSE 2221, MATH 1151, MATH 1152&#10;(commas or new lines both work)"></textarea>
+        <button type="button" class="bulk-btn" id="bulk-add-btn">Add these courses</button>
+      </div>
+
+      <div class="completed-list" id="completed-list"></div>
+    </div>
+  </section>
+
+  <section id="controls-section">
+    <h2>Filters</h2>
+    <div class="controls">
+      <div class="field-group">
+        <label>Department</label>
+        <div class="dept-checks" id="dept-checks"></div>
+      </div>
+      <div class="field-group">
+        <label>Credit hours</label>
+        <div class="credit-inputs">
+          <input type="number" id="min-credits" min="0" step="1" placeholder="min" />
+          <span>&ndash;</span>
+          <input type="number" id="max-credits" min="0" step="1" placeholder="max" />
+        </div>
+      </div>
+      <button type="button" class="find-btn" id="find-btn">Find eligible courses</button>
+    </div>
+  </section>
+
+  <section id="results-section">
+    <div class="results-header">
+      <h2>Eligible courses</h2>
+      <span class="result-count" id="result-count"></span>
+    </div>
+    <div id="results"></div>
+  </section>
+
+  <footer class="site">
+    Course data is a curated starter set covering core CSE, ECE, MATH, ENGR, PHYSICS, STAT, and CHEM courses &mdash;
+    not the full university catalog. Edit <code>courses.js</code> to add more. See <code>README.md</code> for the data plan.
+  </footer>
+
+</div>
+
+<script src="courses.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

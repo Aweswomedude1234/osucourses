@@ -7087,12 +7087,6 @@ const COURSES_DB = [
   },
 
 
-];
-
-// Make available to app.js whether loaded via <script> tag (browser global)
-if (typeof module !== "undefined") { module.exports = COURSES_DB; }
-
-
   {
     id: "ECON 1100.01",
     dept: "ECON",

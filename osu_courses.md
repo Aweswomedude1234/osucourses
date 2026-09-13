@@ -2378,4 +2378,482 @@ Source: individual OSU department course-listing pages (as provided by user, sta
 
 ---
 
+## Economics (ECON)
+
+### ECON 1100.01 — Current Economic Events in Historical Perspective
+- **Credit Hours:** 3
+- **Prereq:** Not open to students with credit for 110.01. GE soc sci human, nat, and econ resources course.
+- **Description:** Introduction to economic analysis; historical background for interpreting current economic events. Discuss current issues in a historical context, including topics like taxes and unemployment. A one-course introduction to economics.
+
+### ECON 1100.02 — Freakonomics
+- **Credit Hours:** 3
+- **Prereq:** Not open to students with credit for 110.02. GE soc sci human, nat, and econ resources course.
+- **Description:** Discuss current social problems and issues within an economics framework, including topics such as job discrimination and integration. A one-course introduction to economics.
+
+### ECON 2001.01 — Principles of Microeconomics
+- **Credit Hours:** 3
+- **Prereq:** Not open to students with credit for 2001.02, 2001.03H, 200, 200H, or AEDEcon 2001 (200). This course is available for EM credit. GE soc sci human, nat, and econ resources course. SS Admis Cond course.
+- **Description:** Introduction to economic theory: supply and demand for goods, services, and factor inputs; market structure; international trade, the distribution of income. First required course for students planning to take 4000-level courses in Econ.
+
+### ECON 2001.03H — Principles of Microeconomics (Honors)
+- **Credit Hours:** 3
+- **Prereq:** Honors standing, or permission of instructor. Not open to students with credit for 2001.01, 2001.02 (200), or 200H, and AEDEcon 2001 (200) or 2001H (200H). GE soc sci human, nat, and econ resources course.
+- **Description:** An advanced introduction to economic theory: supply and demand for goods, services, and factor inputs; market structure; international trade, the distribution of income. First required course for students planning to take 4000-level courses in econ.
+
+### ECON 2002.01 — Principles of Macroeconomics
+- **Credit Hours:** 3
+- **Prereq:** Not open to students with credit for 2002.02, 2002.03H, 201, or 201H. This course is available for EM credit. GE soc sci orgs and polities course.
+- **Description:** Introduction to the theory of national income determination; economic fluctuations; money; government policy; international economics.
+
+### ECON 2002.03H — Principles of Macroeconomics (Honors)
+- **Credit Hours:** 3
+- **Prereq:** Honors standing, or permission of instructor. Not open to students with credit for 2002.01, 2002.02 (201, 201H). GE soc sci orgs and polities course.
+- **Description:** An advanced introduction to the theory of national income determination; economic fluctuations; money; government policy; international economics.
+
+### ECON 2367.02 — Current Economic Issues in the United States
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), and 2002.01, 2002.02 (201), or 2002.03H (201H), or equiv, and English 1110 (110). Not open to students with credit for 367.02. GE writing and comm: level 2 and soc sci orgs and polities course.
+- **Description:** Study of problems currently facing the U.S. economy.
+
+### ECON 3048 — Ethics and Social Responsibility in Economic Life
+- **Credit Hours:** 3
+- **Prereq:** At least one of these courses, 1100.01 (110.01), 1100.02 (110.02), 1100.03 (110.03), 2001.01, 2001.02 (200), 2001.03H (200H), 2002.01 2002.02 (201), or 2002.03H (201H), is recommended. Not open to students with credit for 348. GE soc sci indivs and groups course.
+- **Description:** Examines the role of ethical norms and social constraints in determining economic outcomes.
+
+### ECON 3400 — The Analysis and Display of Data
+- **Credit Hours:** 3
+- **Prereq:** Not open to students with credit for 4400 (444), 5410 (641), 5420 (642), 443, IntStds 3400 (443), Stat 1430 (133), 1450 (145), 2450 (245) or AEDEcon 2005 (205). GE data anly course. Cross-listed in IntStds.
+- **Description:** Introduction to the analysis of data. Topics include sampling, data collection, probability, inference, random variables, display of data, correlation, and analysis of variance. This course does not count toward a course elective for Econ majors.
+
+### ECON 3820 — The Economics of Gender in Labor Markets
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), or equiv. Not open to students with credit for 482. GE diversity soc div in the US course.
+- **Description:** Application of economic analysis to the evolution and economic condition of women and men in the labor force; occupational distribution and segregation; wage gap; the glass ceiling.
+
+### ECON 4001.01 — Intermediate Microeconomic Theory
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02, or 2001.03H, and 2002.01, 2002.02, or 2002.03H, or equiv. Not open to students with credit for 4001.02 or 4001.03.
+- **Description:** Theory of consumer behavior; theory of the firm; costs and production; factor price determination; general equilibrium.
+
+### ECON 4001.02 — Intermediate Microeconomic Theory (Calculus-Based)
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), and 2002.01, 2002.02 (201), or 2002.03H (201H), and Math 1131 (132), 1151 (151), 1152 (152 and 153), 1161 (161 and 162), 2182H (263H), or 4181H (190H) or equiv; or permission of instructor. Not open to students with credit for 4001.01 (501.01 and 501.02) or 4001.03H.
+- **Description:** Theory of consumer behavior; theory of the firm; costs and production; factor price determination; general equilibrium. Designates a calculus-based version.
+
+### ECON 4001.03 — Intermediate Microeconomic Theory (Advanced Calculus-Based)
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), and 2002.01, 2002.02 (201), or 2002.03H (201H), and Math 1131 (132), 1151 (151), 1152 (152 and 153), 1161 (162 and 161), 2182H (263H), or 4181H (H190), or equiv, or permission of instructor. Not open to students with credit for 4001.01 (501.01) or 4001.02 (501.02).
+- **Description:** Theory of consumer behavior; theory of the firm; costs and production; factor price determination; general equilibrium. Designates an advanced calculus-based version.
+
+### ECON 4002.01 — Intermediate Macroeconomic Theory
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), and 2002.01, 2002.02 (201 or 201H), or 2002.03H, or equiv. Not open to students with credit for 4002.02 (502.01 or 502.02) or 4002.03.
+- **Description:** Analysis of the determinants of national output; income and employment levels; theory of economic growth and progressive equilibrium in an economy.
+
+### ECON 4002.02 — Intermediate Macroeconomic Theory (Calculus-Based)
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), and 2002.01, 2002.02 (201), or 2002.03H (201H), and Math 1131 (132) or 1151 (151), 1152 (152 and 153), 1161 (161 and 162), 2182H (263H), or 4181H (190H), or equiv; or permission of instructor. Not open to students with credit for 4002.01 (502.01 or 502.02) or 4002.03.
+- **Description:** Analysis of the determinants of national output; income and employment levels; theory of economic growth and progressive equilibrium in an economy. Designates a calculus-based version.
+
+### ECON 4002.03 — Intermediate Macroeconomic Theory (Advanced Calculus-Based)
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), and 2002.01, 2002.02 (201), or 2002.03H (201H), and Math 1152 (152 and 153), 1161 (161 and 162), 2182H (263H), or 4181H (190H), or equiv; or permission of instructor. Not open to students with credit for 4002.01 (502.01) or 4002.02 (502.02).
+- **Description:** Analysis of the determinants of national output; income and employment levels; theory of economic growth and progressive equilibrium in an economy. Designates an advanced calculus-based version.
+
+### ECON 4050 — Experimental Economics
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02, or 2001.03H or equiv.
+- **Description:** Introduction to economics as an experimental social science. Students participate in and study results of economic experiments dealing with markets, individual decision making, and a broad array of game theoretic economic models.
+
+### ECON 4130 — World Economic Development in Historical Perspective
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), or 2002.01, 2002.02 (201) or 2002.03H (201H), or equiv. Not open to students with credit for 5130 (614), or 515. GE historical study and diversity global studies course.
+- **Description:** A survey of economic development from the middle ages through the 20th century, emphasizing Europe, Asia and Africa.
+
+### ECON 4140 — Economic History of the Americas
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), or 2002.01, 2002.02 (201), or 2002.03H (201H), or equiv. Not open to students with credit for 5140 (613) or 516. GE historical study and diversity global studies course.
+- **Description:** A survey of economic development in the Americas emphasizing the United States from colonial times to the 20th century.
+
+### ECON 4191 — Internship
+- **Credit Hours:** 1
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), and 2002.01, 2002.02 (201), or 2002.03H (201H), or equiv; and Jr or Sr standing; and enrollment in Econ major; and permission of department. Not open to students with maximum qtr cr hrs in 589. Repeatable to a maximum of 6 cr hrs or 2 completions. This course is graded S/U.
+- **Description:** Allows students to apply knowledge from their economics courses and learn from hands on experience in approved positions. Applies toward an Econ 4000-level elective; 3 credit hours maximum toward major.
+
+### ECON 4200 — Money and Banking
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), and 2002.01, 2002.02 (201), or 2002.03H (201H), or equiv. Not open to students with credit 4200H (520H), 5200, or 520.
+- **Description:** Organization, operation, and economic significance of our monetary and banking system; special reference to current conditions and problems. Students intending to take 5200 are encouraged to take it instead.
+
+### ECON 4300 — Government Finance in the American Economy
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), or equiv. Not open to students with credit for 530.
+- **Description:** Analysis of fiscal institutions and decision-making in the public sector of the American economy; budget planning and execution; taxation, debt, and fiscal policy.
+
+### ECON 4310 — Local Public Finance
+- **Credit Hours:** 3
+- **Prereq:** 4300 (530), or PubAfrs 7120 (730), or equiv. Not open to students with credit for 531, or PubAfrs 4310 (531). Cross-listed in PubAfrs.
+- **Description:** Financing public services by state/local governments. The fiscal relationship between state/local governments and the federal government. Apply techniques of economic analysis to policy issues.
+
+### ECON 4400 — Elementary Econometrics
+- **Credit Hours:** 3
+- **Prereq:** 3400, IntStds 3400, Stat 1430 (133), 1450 (145), 2450 (245), or AEDEcon 2005 (205), or equiv. Not open to students with credit for 5410 (641), 5420 (642), or 444.
+- **Description:** Basic linear regression analysis with applications; hypothesis testing and model specification.
+
+### ECON 4537 — Middle Eastern Economic Development
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), 2001.03H (200H), or AEDEcon 2001 (200), and 2002.01, 2002.02 (201), or 2002.03H (201H), or equiv. Not open to students with credit for 537, AEDEcon 4537 (537), 437, IntStds 4537 (537), or 437. Cross-listed in AEDEcon and IntStds.
+- **Description:** Introduction to current economic issues facing the Middle East; similarities and differences in Middle Eastern countries' growth, inflation, unemployment, fiscal and monetary policy, imports, exports, foreign debt and exchange rate policy.
+
+### ECON 4553 — Economics of Population
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), or 2002.01, 2002.02 (201), or 2002.03H (201H). Not open to students with credit for 553.
+- **Description:** Using economic principles to analyze population growth, fertility, mortality, mating, dating, marriage, teen pregnancy, divorce, and migration.
+
+### ECON 4560 — Cooperation and Conflict in the Global Economy
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), and 2002.01, 2002.02 (201), or 2002.03H (201H), or equiv. Not open to students with credit for 4560H (556H), 556, IntStds 4560 (556), or 4560H (556H). Cross-listed in IntStds.
+- **Description:** The economic, social, and political bases for and responses to increasing global economic integration.
+
+### ECON 4597.01 — Issues of the Underground Economy
+- **Credit Hours:** 3
+- **Prereq:** Jr standing and above. Recommended prereqs: 2001.01, 2001.02 (200), 2001.03H (200H), and 2002.01, 2002.02 (201), or 2002.03H (201H). Not open to students with credit for 597.01. GE cross-disciplinary seminar course.
+- **Description:** Focuses on the informal sector of the underground economy: illegal drugs, arms sales and human trafficking. Applies economic reasoning.
+
+### ECON 4700 — Government and Business
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), or equiv. Not open to students with credit for 5700 (670), or 570.
+- **Description:** Economic and legal aspects of government regulation of business in the United States; philosophies and concepts of public control; contemporary problems. Students planning on taking 5700 are encouraged to take it instead.
+
+### ECON 4800 — Labor Economics and Industrial Relations
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), or equiv. Not open to students with credit for 5850 (685) or 580.
+- **Description:** Survey of the field of labor economics; trade unionism, collective bargaining; wage determination, employment, unemployment; labor legislation. Students planning on taking 5850 are encouraged to take it instead.
+
+### ECON 4830 — Economics of Sports
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02 (200), or 2001.03H (200H), or equiv. Not open to students with credit for 583.
+- **Description:** Analysis of economic and business aspects of sports teams and their strategic interactions in sports markets.
+
+### ECON 4831 — Sports Data Analytics and Economic Analysis
+- **Credit Hours:** 3
+- **Prereq:** 2001.01, 2001.02, 2001.03H, AEDEcon 2001, or 2001H.
+- **Description:** An introduction to basic data analysis methods used by economists to explain economic reasoning in the sport industry and associated markets.
+
+### ECON 4960H — Honors Seminar in Economics
+- **Credit Hours:** 3
+- **Prereq:** Honors standing, and 4001.01, 4001.02, or 4001.03, and 4400, 5410, or 5420; or permission of instructor.
+- **Description:** Prepares students to write an undergraduate thesis; group discussion of research problems, methods, and strategies.
+
+### ECON 4998 — Undergraduate Research in Economics
+- **Credit Hours:** 1
+- **Prereq:** 4001.01 (501.01), 4001.02 (501.02), or 4001.03, and 4002.01 (502.01), 4002.02 (502.02), or 4002.03, or equiv, and permission of instructor. Not open to students with credit for 4998H or 699. This course is graded S/U.
+- **Description:** Directed research for an Economics major; collection and analysis of data and information for a research project.
+
+### ECON 4998H — Honors Research in Economics
+- **Credit Hours:** 1
+- **Prereq:** Honors standing; and 4001.01 (501.01), 4001.02 (501.02), or 4001.03, and 4002.01 (502.01), 4002.02 (502.02), or 4002.03, or equiv; and permission of instructor. Not open to students with greater than 9 cr hrs in 4998 or max credit in 699. Repeatable to a maximum of 10 cr hrs or 2 completions. This course is graded S/U.
+- **Description:** Directed research for an economics major; collection and analysis of data and information for a research project.
+
+### ECON 4999 — Undergraduate Thesis Research
+- **Credit Hours:** 1
+- **Prereq:** At least half of the Econ courses taken and an average of B in the remainder, and Sr standing, and permission of instructor. Not open to students with greater than 9 hours credit for 4999H (699) or max credit in 783H. Repeatable to a maximum of 10 cr hrs or 10 completions. This course is graded S/U.
+- **Description:** A program of study arranged for each student, with individual conferences and reports, to write a senior thesis. At least two semesters are required of candidates for the degree with distinction in economics.
+
+### ECON 4999H — Honors Thesis Research
+- **Credit Hours:** 1
+- **Prereq:** Honors standing, and a grade of A in at least half of the Econ courses taken, and an average of B in the remainder, and Sr standing, and permission of instructor. Not open to students with credit for 4999 (783H). Credit in 783H counts toward hour cap. Repeatable to a maximum of 10 cr hrs or 10 completions. This course is graded S/U.
+- **Description:** A program of study arranged for each student, with individual conferences and reports, to write a senior thesis. At least 2 sems required for distinction in econ. Failure to receive a mark of S in this course is a disqualification for special honors.
+
+### ECON 5001 — Game Theory in Economics
+- **Credit Hours:** 3
+- **Prereq:** 4001.01 (501.01), 4001.02 (501.02), or 4001.03, and Math 1131 (132), 1151 (151 and 152), 1152 (153), 1161 (161 and 162), or 2182H (263H), or equiv. Not open to students with credit for 601.
+- **Description:** Analysis of behavior in strategic situations - when a person or firm's best action depends on what others do.
+
+### ECON 5130 — Economic History of Western Europe
+- **Credit Hours:** 4
+- **Prereq:** 4400 (444), 5410 (641), or Stat 2450 (245), and Econ 4001.01 (501.01), 4001.02 (502.02), or 4001.03, and 4002.01 (502.01), 4002.02 (502.02), or 4002.03, or equiv; or Grad standing. Not open to students with credit for 614.
+- **Description:** Survey of economic development of Europe from pre-industrialization to current globalization. Emphasis on critical analysis of long-run factors in economic growth.
+
+### ECON 5140 — Economic History of the United States
+- **Credit Hours:** 4
+- **Prereq:** 4400 (444), 5410 (641), 4001.01 (501.01), 4001.02 (502.02), 4001.03, and 4002.01 (502.01), 4002.02 (502.02), or 4002.03, or Stat 2450 (245), or equiv; or Grad standing. Not open to students with credit for 613.
+- **Description:** General survey from discovery of America to present; European economic background; westward movement and its effects; development of economic institutions in the United States.
+
+### ECON 5193 — Individual Studies
+- **Credit Hours:** 1
+- **Prereq:** Jr standing or higher; and an average of B or better in all econ courses; and a CPHR of 3.00 or above. Repeatable to a maximum of 10 cr hrs or 10 completions. This course is graded S/U.
+- **Description:** Advanced readings in economics and related fields.
+
+### ECON 5261 — Financial Economics I
+- **Credit Hours:** 3
+- **Prereq:** 4001.01, 4001.02, or 4001.03, and 4002.01, 4002.02, or 4002.03, and Math 1151, 1152, 1161, or 2182H, or equiv.; or Grad standing.
+- **Description:** Examination of the evolution of and economic issues facing financial markets, financial institutions, and financial market participants. Does not count as course credit towards the completion of a business major.
+
+### ECON 5410 — Econometrics I
+- **Credit Hours:** 3
+- **Prereq:** 4001.01 (501.01), 4001.02 (501.02), or 4001.03, and Stat 2450 (245), 4201, 4202 (420, 421), or 3470 (427, 428), or equiv. Not open to students with credit for 641, 444, or 4400.
+- **Description:** The general linear regression model; multiple correlation, path analysis, analysis of variance and tests of significance; specification errors.
+
+### ECON 5420 — Econometrics II
+- **Credit Hours:** 3
+- **Prereq:** 5410 (641) and 4002.01, 4002.02 (502.01), or 4002.03 (502.02), or PubAfrs 7571, or equiv. Not open to students with credit for 642.
+- **Description:** Discrete choice models, panel data, endogeneity, instrumental variables, and systems of equations; stationary and nonstationary time series; applications in various fields of economics. Continuation of 5410.
+
+### ECON 5660 — Financial Aspects of International Trade
+- **Credit Hours:** 3
+- **Prereq:** 4400 (444), 5410 (641), or Stat 2450 (245), and 4002.01 (502.01), 4002.02 (502.02), or 4002.03, or equiv. Not open to students with credit for 666.
+- **Description:** International payments and receipts; foreign exchange markets; balance-of-payments adjustment under different monetary systems; macroeconomic policy; international monetary reforms; foreign investments; multinational corporations.
+
+### ECON 5700 — Industrial Organization
+- **Credit Hours:** 3
+- **Prereq:** 4400 (444), 5410 (641), or Stat 2450 (245), and 4001.01 (501.01), 4001.02 (501.02), or 4001.03, or equiv; or Grad standing. Not open to students with credit for 670.
+- **Description:** Nature, role, and regulation of competition; market structure and social performance; antitrust laws; current economic, legal, and policy problems in the antitrust area.
+
+### ECON 5720 — Comparative Institutional Analysis of Firms and Markets
+- **Credit Hours:** 3
+- **Prereq:** 4001.01 (501.01), 4001.02 (501.02), or 4001.03, or equiv, or Grad standing. Not open to students with credit for 672.
+- **Description:** Applications of economic analysis to industrial organizations including the firm's internal incentive structure, labor markets, and financial institutions, of major market economies such as U.S., and Japan from comparative perspectives.
+
+### ECON 5850 — Labor Economics
+- **Credit Hours:** 3
+- **Prereq:** 4400 (444), 5410 (641), or Stat 2450 (245); and 4001.01 (501.01), 4001.02 (501.02), or 4001.03, or equiv. Not open to students with credit for 685.
+- **Description:** Advanced study of the labor market including labor demand and supply, wage determination, and unemployment.
+
+---
+
+## Statistics (STAT)
+
+### STAT 1350.01 — Elementary Statistics
+- **Credit Hours:** 3
+- **Prereq:** Math 1050, or Math Placement Level S, or permission of instructor. Not open to students with credit for GE Data Analysis course (AEDEcon 2005, AnimSci 2260, Astron 3350, Chem 2210, 2210H, ComLdr 3537, EarthSc 2245, Econ 3400, ENR 2000, Geog 2200.01, 2200.02, HCS 2260, IntStds 3400, Ling 2051, 2051H, Philos 1520, Physics 3700, PolitSc 3780, 4781, Sociol 3549, Stat 1350, 1350.01, 1430, 1430.01, 1430.02, 1430H, 1450, 1450.01, 1450.02, 2450, 2450.01, 2450.02, 2480, 2480.01, 2480.02, 3450, 3450.01, 3450.02, 3460, 3470, 3470.01, 3470.02, 4202, 5301, or 5302). GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Introduction to probability and statistics, experiments, and sampling, data analysis and interpretation.
+
+### STAT 1350.02 — Elementary Statistics (Online)
+- **Credit Hours:** 3
+- **Prereq:** Math 1050, or Math Placement Level S, or permission of instructor. Not open to students with credit for GE Data Analysis course (AEDEcon 2005, AnimSci 2260, Astron 3350, Chem 2210, 2210H, ComLdr 3537, EarthSc 2245, Econ 3400, ENR 2000, Geog 2200.01, 2200.02, HCS 2260, IntStds 3400, Ling 2051, 2051H, Philos 1520, Physics 3700, PolitSc 3780, 4781, Sociol 3549, Stat 1350, 1350.01, 1430, 1430.01, 1430.02, 1430H, 1450, 1450.01, 1450.02, 2450, 2450.01, 2450.02, 2480, 2480.01, 2480.02, 3450, 3450.01, 3450.02, 3460, 3470, 3470.01, 3470.02, 4202, 5301, or 5302). GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Introduction to probability and statistics, experiments, and sampling, data analysis and interpretation. Offered online.
+
+### STAT 1430.01 — Statistics for the Business Sciences
+- **Credit Hours:** 4
+- **Prereq:** Math 1131, 1141, 1151, 1156, 1161.xx, or 1181H, or permission of instructor. Not open to students with credit for 1430, 1430.02, or BusMgt 2320. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Fundamentals of probability and statistics: Data collection and summaries, random variables, simple linear regression, two-way tables, conditional probability, sampling distributions, confidence intervals, hypothesis tests, analysis of variance. In-person recitation.
+
+### STAT 1430.02 — Statistics for the Business Sciences (Online)
+- **Credit Hours:** 4
+- **Prereq:** Math 1131, 1141, 1151, 1156, 1161.xx, or 1181H, or permission of instructor. Not open to students with credit for 1430, 1430.01, or BusMgt 2320. GE data anyl course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Fundamentals of probability and statistics: Data collection and summaries, random variables, simple linear regression, two-way tables, conditional probability, sampling distributions, confidence intervals, hypothesis tests, analysis of variance. Partly or fully offered online.
+
+### STAT 1430H — Statistics for the Business Sciences (Honors)
+- **Credit Hours:** 4
+- **Prereq:** Honors standing, and Math 1131, 1151, 1156, 1161.xx, or 1181H; or permission of instructor. Not open to students with credit for 1430 or BusMgt 2320. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Calculus-based fundamentals of probability and statistics: Data collection and summaries, random variables, simple linear regression, two-way tables, conditional probability, sampling distributions, confidence intervals, hypothesis tests, ANOVA.
+
+### STAT 1450.01 — Introduction to the Practice of Statistics
+- **Credit Hours:** 3
+- **Prereq:** Math 1116 or 1130 or above, or Math Placement Level L or M, or permission of instructor. Not open to students with credit for 1450, 1450.02, 2450, 2450.01, 2450.02, 2480, 2480.01, or 2480.02. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Algebra-based introduction to data analysis, experimental design, sampling, probability, inference, and linear regression. Emphasis on applications, statistical reasoning, and data analysis using statistical software.
+
+### STAT 1450.02 — Introduction to the Practice of Statistics (Online)
+- **Credit Hours:** 3
+- **Prereq:** Math 1116 or 1130 or above, or Math Placement Level L or M, or permission of instructor. Not open to students with credit for 1450, 1450.01, 2450, 2450.01, 2450.02, 2480, 2480.01, or 2480.02. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Algebra-based introduction to data analysis, experimental design, sampling, probability, inference, and linear regression. Emphasis on applications, statistical reasoning, and data analysis using statistical software. Offered online.
+
+### STAT 1550 — Introduction to Statistical Reasoning
+- **Credit Hours:** 3
+- **Prereq or concur:** Math 1152, or permission of instructor. GE data anyl course.
+- **Description:** Introduction to statistical reasoning through data and application examples, including an introduction to coding in the R software; intended for students considering the Statistics major.
+
+### STAT 2450 — Introduction to Statistical Analysis I
+- **Credit Hours:** 3
+- **Prereq:** Math 1131, 1151 (152.xx), 1156, 1161.xx, or 1181H, or equiv, or permission of instructor. Not open to students with credit for 245. GE data anly course.
+- **Description:** Calculus-based introduction to statistical data analysis. Includes sampling, experimental design, probability, binomial and normal distributions, sampling distributions, inference, regression, ANOVA, two-way tables.
+
+### STAT 2450.01 — Introduction to Statistical Analysis I
+- **Credit Hours:** 3
+- **Prereq:** Math 1131, 1141, 1151, 1156, 1161.xx, or 1181H, or equiv, or permission of instructor. Not open to students with credit for 2450, 2450.02, 2480, 2480.01, 2480.02, or 3202. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Calculus-based introduction to statistical data analysis. Includes sampling, experimental design, probability, binomial and normal distributions, sampling distributions, inference, regression, ANOVA, two-way tables.
+
+### STAT 2450.02 — Introduction to Statistical Analysis I (Online)
+- **Credit Hours:** 3
+- **Prereq:** Math 1131, 1141, 1151, 1156, 1161.xx, or 1181H, or equiv, or permission of instructor. Not open to students with credit for 2450, 2450.01, 2480, 2480.01, 2480.02, or 3202. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Calculus-based introduction to statistical data analysis. Includes sampling, experimental design, probability, binomial and normal distributions, sampling distributions, inference, regression, ANOVA, two-way tables. Offered online.
+
+### STAT 2460H — Introduction to Statistical Analysis II
+- **Credit Hours:** 3
+- **Prereq:** 2450 (245), or permission of instructor. Not open to students with credit for 5301 (528), 5302 (529), 246, or 530.
+- **Description:** Introductory statistics review; Simple linear regression; Multiple regression; One-way ANOVA review; Multiple comparisons; Two-way ANOVA; Bootstrap and permutation tests; Nonparametric tests; Intro to quality/process control; Intro time series.
+
+### STAT 2480 — Statistics for the Life Sciences
+- **Credit Hours:** 3
+- **Prereq:** Math 1131, 1151 (152), 1156, 1161.XX, or 1181H, or equiv, or permission of instructor. Not open to students with credit for 2450 (245) or 218. GE data anly course.
+- **Description:** Calculus-based introduction to the statistical analysis of biological data, including probability, common discrete and continuous distributions, experimental design, hypothesis testing, linear regression and correlation.
+
+### STAT 2480.01 — Statistics for the Life Sciences
+- **Credit Hours:** 3
+- **Prereq:** Math 1131, 1141, 1151, 1156, 1161.xx, or 1181H, or equiv, or permission of instructor. Not open to students with credit for 2450, 2450.01, 2450.02, 2480, 2480.02, or 3202. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Calculus-based introduction to the statistical analysis of biological data, including probability, common discrete and continuous distributions, experimental design, hypothesis testing, linear regression and correlation.
+
+### STAT 2480.02 — Statistics for the Life Sciences (Online)
+- **Credit Hours:** 3
+- **Prereq:** Math 1131, 1141, 1151, 1156, 1161.xx, or 1181H, or equiv, or permission of instructor. Not open to students with credit for 2450, 2450.01, 2450.02, 2480, 2480.01, or 3202. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Calculus-based introduction to the statistical analysis of biological data, including probability, common discrete and continuous distributions, experimental design, hypothesis testing, linear regression and correlation. Offered online.
+
+### STAT 2510.01 — Statistics in the Sports World
+- **Credit Hours:** 2
+- **Prereq:** One GE data anly course, or equiv, or permission of instructor. Not open to students with credit for 201.01.
+- **Description:** Ask and answer questions, debate issues and analyze data from your favorite sports using statistics. Statistical techniques include contingency tables, regression, estimation, confidence levels, testing. Cannot be used to replace a GE data anly course.
+
+### STAT 2510.02 — Statistics in the Environmental Sciences
+- **Credit Hours:** 2
+- **Prereq:** One GE data anly course, or equiv, or permission of instructor. Not open to students with credit for 200.01.
+- **Description:** Learn, discuss, and apply statistical methods to important problems in the environmental sciences. Statistical techniques will be introduced and illustrated through applications in climate change, pollution monitoring, and biodiversity/conservation. Cannot be used to replace a GE data anly course.
+
+### STAT 3201 — Introduction to Probability for Data Analytics
+- **Credit Hours:** 3
+- **Prereq:** Math 1152, 1161.xx, 1172, 1181, or equiv; or permission of instructor. Not open to students with credit for 4201 or Math 4530.
+- **Description:** An introduction to probability and its role in statistical methods for data analytics. Equal emphasis is placed on analytical and simulation-based methods for quantifying uncertainty. Approaches to assessing the accuracy of simulation methods are discussed. Applications of probability and sampling to big-data settings are discussed.
+
+### STAT 3202 — Introduction to Statistical Inference for Data Analytics
+- **Credit Hours:** 4
+- **Prereq:** C- or better in 3201, or permission of instructor. Not open to students with credit for 4202.
+- **Description:** Foundational inferential methods for learning about populations from samples, including point and interval estimation, and the formulation and testing of hypotheses. Statistical theory is introduced to justify the approaches. The course emphasizes challenges that arise when applying classical ideas to big data, partially through the use of computational and simulation techniques.
+
+### STAT 3301 — Statistical Modeling for Discovery I
+- **Credit Hours:** 3
+- **Prereq:** C- or above in 3202; or 4202 and 5730; or permission of instructor. Prereq or concur: Math 2568, or permission of instructor.
+- **Description:** Statistical models for data analysis in the linear regression framework. The challenges of developing meaningful models for data are explored, with emphasis on the model building process, the use of numerical and graphical diagnostics for assessing model fit, and interpretation and communication of results. Statistical foundations are introduced along with basic inferential techniques.
+
+### STAT 3302 — Statistical Modeling for Discovery II
+- **Credit Hours:** 3
+- **Prereq:** C- or above in 3301, and Math 2568 or 5520H; or permission of instructor.
+- **Description:** This course investigates advanced statistical models for data analysis. The regression methods developed in Stat 3301 are extended to data settings with binary and multi-category outcomes. Commonly used statistical methods for exploring and analyzing multivariate data are introduced. Interpretation and communication of the results of analyses is emphasized.
+
+### STAT 3303 — Bayesian Analysis and Statistical Decision Making
+- **Credit Hours:** 3
+- **Prereq:** C- or above in 3301, or permission of instructor.
+- **Description:** Introduction to concepts and methods for making decisions in the presence of uncertainty. Topics include: formulation of decision problems and quantification of their components; learning about unknown features of a decision problem based on data via Bayesian analysis; characterizing and finding optimal decisions. Techniques and computational methods for practical implementation are presented.
+
+### STAT 3410 — Principles of Data Collection and Analysis
+- **Credit Hours:** 3
+- **Prereq:** 3202; or 4202 and 5730; or permission of instructor.
+- **Description:** Principles of designing experiments; analysis of variance techniques for hypothesis testing; simultaneous confidence intervals; block designs; factorial experiments; random effects and mixed models; observational data.
+
+### STAT 3440 — Statistics in Quality
+- **Credit Hours:** 3
+- **Prereq:** Math 1152, 1154, 1155, 1161.xx, 1172, or equiv, or permission of instructor. Not open to students with credit for 3450, 3450.01, 3450.02, 3460, 3470, 3470.01 or 3470.02.
+- **Description:** Descriptive statistics; introduction to probability; Bayes theorem; discrete and continuous random variables, expected value, probability distributions; interval estimation for means and proportions; hypotheses tests for means and proportions; least squares regression; one- and two-way anova; control charts; process capability indices.
+
+### STAT 3450 — Basic Statistics for Engineers
+- **Credit Hours:** 2
+- **Prereq:** Math 1152, 1161.xx, 1172, or 1181, or equiv, or permission of instructor. Not open to students with credit for 3460 or 3470. GE data anly course.
+- **Description:** Introduction to probability; Normal distribution; Confidence intervals for means; Hypothesis tests for means; Multi-factor experiments; Experiments with blocking.
+
+### STAT 3450.01 — Basic Statistics for Engineers
+- **Credit Hours:** 2
+- **Prereq:** Math 1152, 1161.xx, 1172, or 1181, or equiv, or permission of instructor. Not open to students with credit for 3440, 3450, 3450.02, 3460, 3470, 3470.01, or 3470.02. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Introduction to probability; Normal distribution; Confidence intervals for means; Hypothesis tests for means; Multi-factor experiments; Experiments with blocking.
+
+### STAT 3450.02 — Basic Statistics for Engineers (Online)
+- **Credit Hours:** 2
+- **Prereq:** Math 1152, 1161.xx, 1172, or 1181, or equiv, or permission of instructor. Not open to students with credit for 3440, 3450, 3450.01, 3460, 3470, 3470.01, or 3470.02. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Introduction to probability; Normal distribution; Confidence intervals for means; Hypothesis tests for means; Multi-factor experiments; Experiments with blocking. Offered online.
+
+### STAT 3460 — Principles of Statistics for Engineers
+- **Credit Hours:** 3
+- **Prereq:** Math 1152, 1161.xx, 1172, 1181H, 153, or 254, or equiv, or permission of instructor. Not open to students with credit for 3450, 3470, 427, or 428. GE data anly course.
+- **Description:** Introduction to probability, random variables, distributions, expected values; confidence intervals; paired and unpaired t-tests; linear regression; analysis of variance; blocked experiments; fractional factorial experiments; quality control charts.
+
+### STAT 3470.01 — Introduction to Probability and Statistics for Engineers
+- **Credit Hours:** 3
+- **Prereq:** Math 1152, 1161.xx, 1172, 1181H, or equiv, or permission of instructor. Not open to students with credit for 3440, 3450, 3450.01, 3450.02, 3460, 3470, or 3470.02. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Introduction to probability, Bayes theorem; discrete and continuous random variables, expected value, probability distributions; point and interval estimation; hypotheses tests for means and proportions; least squares regression.
+
+### STAT 3470.02 — Introduction to Probability and Statistics for Engineers (Online)
+- **Credit Hours:** 3
+- **Prereq:** Math 1152, 1161.xx, 1172, 1181H, or equiv, or permission of instructor. Not open to students with credit for 3440, 3450, 3450.01, 3450.02, 3460, 3470, or 3470.01. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Introduction to probability, Bayes theorem; discrete and continuous random variables, expected value, probability distributions; point and interval estimation; hypotheses tests for means and proportions; least squares regression. Offered online.
+
+### STAT 4193 — Individual Studies
+- **Credit Hours:** 1
+- **Prereq:** Permission of instructor. Repeatable to a maximum of 15 cr hrs or 5 completions. This course is graded S/U.
+- **Description:** Individual conferences, assigned readings, and reports on minor investigations.
+
+### STAT 4194 — Group Studies
+- **Credit Hours:** 1
+- **Prereq:** Permission of instructor. Repeatable to a maximum of 15 cr hrs or 3 completions.
+- **Description:** Designed to give groups of students an opportunity to pursue special studies not otherwise offered.
+
+### STAT 4201 — Introduction to Mathematical Statistics I
+- **Credit Hours:** 4
+- **Prereq:** C- or better in Math 2153, 2162.xx, 2182H, or 4182H, or permission of instructor. Not open to students with credit for 3201, 4202, 6201, 6301, 6801, Math 4530 or 5530H.
+- **Description:** Basic concepts in mathematical statistics, including probability, discrete and continuous distributions and densities, mathematical expectation, functions of random variables, transformation techniques, sampling distributions, order statistics.
+
+### STAT 4202 — Introduction to Mathematical Statistics II
+- **Credit Hours:** 4
+- **Prereq:** C- or better in 4201, Math 4530, or 5530H, or permission of instructor. Not open to students with credit for 3202, 6201, 6302, or 6802. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** Decision theory, point and interval estimation, Neyman-Pearson lemma, likelihood ratio tests, tests for means, variances, and proportions, nonparametric tests, regression, and ANOVA.
+
+### STAT 4301 — Advanced Statistical Inference
+- **Credit Hours:** 3
+- **Prereq:** 3201 and 3202, or 4201 and 4202; and Math 2153; or permission of instructor.
+- **Description:** Advanced probability models and fundamentals of inferential procedures; distribution functions, moment generating functions, transformations, order statistics, large-sample theory, classical hypothesis testing, distribution-free hypothesis tests.
+
+### STAT 4302 — Computational Statistics
+- **Credit Hours:** 3
+- **Prereq:** 3301 and 4301, or permission of instructor.
+- **Description:** Topics in computational statistics using the R software, including design and execution of classical and modern Monte Carlo experiments, and statistical inference based on resampling methods, such as bootstrap, jackknife, and permutation.
+
+### STAT 4620 — Introduction to Statistical Learning
+- **Credit Hours:** 2
+- **Prereq:** C- or better in 3302, or permission of instructor.
+- **Description:** The course provides an introduction to the principles of statistical learning and standard learning techniques for regression, classification, clustering, dimensionality reduction, and feature extraction.
+
+### STAT 4690 — Undergraduate Topics in Statistics
+- **Credit Hours:** 1
+- **Prereq:** (None listed)
+- **Description:** Various topics in Statistics and Data Analysis that are relevant to an undergraduate audience. Topics vary per offering. Repeatable to a maximum of 12 cr hrs or 3 completions.
+
+### STAT 4911 — Data Analytics Capstone
+- **Credit Hours:** 4
+- **Prereq:** 4620, or permission of instructor.
+- **Description:** A teamwork-based synthesis of the Data Analytics major curriculum through the analysis of data supplied by a partnering institution. Prepares students for the complexity of data analysis they will encounter outside of the university in a mentored setting.
+
+### STAT 4998 — Undergraduate Research in Statistics
+- **Credit Hours:** 1
+- **Prereq:** Permission of instructor. Repeatable to a maximum of 30 cr hrs or 6 completions. This course is graded S/U.
+- **Description:** Designed to give undergraduates experience in carrying out statistics research.
+
+### STAT 4999 — Undergraduate Thesis Research in Statistics
+- **Credit Hours:** 1
+- **Prereq:** Permission of instructor. Repeatable to a maximum of 30 cr hrs or 6 completions. This course is graded S/U.
+- **Description:** Designed to give undergraduates experience in carrying out statistics research.
+
+### STAT 5301 — Intermediate Data Analysis I
+- **Credit Hours:** 4
+- **Prereq:** Math 1075 or equiv, or Math Placement Level of R, or permission of instructor. Not open to students with credit for 5302. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** The first course in a two-semester non-calculus sequence in data analysis covering descriptive statistics, design of experiments, probability, statistical inference, one-sample t, goodness of fit, two sample problem, and one-way ANOVA.
+
+### STAT 5302 — Intermediate Data Analysis II
+- **Credit Hours:** 3
+- **Prereq:** 5301, or permission of instructor. GE data anly course. GE foundation math and quant reasoning or data anyl course.
+- **Description:** The second course in a two-semester sequence in data analysis covering simple linear regression (inference, model diagnostics), multiple regression models, variable selection, model selection, two-way ANOVA, mixed effects model.
+
+### STAT 5510 — Statistical Foundations of Survey Research
+- **Credit Hours:** 3
+- **Prereq:** 1350 (135), 1450 (145), or 5301 (528), and Math 1075 (104), or equiv; or permission of instructor. Not open to students with credit for 6510 (651) or 551.
+- **Description:** Understand and practice methods of survey research and data analysis including questionnaire design and pilot testing, non-sampling and sampling errors, sampling design, descriptive statistics, estimation, and hypothesis testing; and ethics.
+
+### STAT 5550 — Introductory Time Series Analysis
+- **Credit Hours:** 3
+- **Prereq:** 3301; or 4202 and 5302; or permission of instructor. Not open to students with credit for 6550 (635) or 7550.
+- **Description:** Introduces the statistical methodology and models to analyze time series data in practice.
+
+### STAT 5730 — Introduction to R for Data Science
+- **Credit Hours:** 2
+- **Prereq:** 1350, 1350.01, 1350.02, 1450, 1450.01, 1450.02, 1550, 2450, 2450.01, 2450.02, 2480, 2480.01, 2480.02, 3201, 3202, 3450, 3450.01, 3450.02, 3460, 3470, 3470.01, 3470.02, 4202, 5301, or 5302, or equiv., or permission of instructor.
+- **Description:** Introduces underlying concepts of the R programming language and R package ecosystem for manipulation, visualization, and modeling of data, and for communicating the results of and enabling replication of their analyses.
+
+---
+
 *(Next Business subject pending — continuing with BUSMHR, BUSML, and BUSTEC for Spring 2027, Columbus campus, using the same stopping rule.)*
